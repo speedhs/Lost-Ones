@@ -2,9 +2,8 @@
 A third-person game about two wolves trying to connect to each other.
 This game was made for the 2021.1 Brackeys game jam in one week.
 
-Tips
-1.You can break the glass in this game by dashing. And you can dash by hitting "E" while jumping.
-2.Only the black wolf can dash and only the white wolf can double jump.
+Tip
+You can break the glass in this game by dashing. And you can dash by hitting "E" while jumping.
 
 Important Controls
 Moving: WASD
